@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Delany musariri</h1>
+<h1 align="center">Hi 👋, I'm Delany Musariri</h1>
 <h3 align="center">👨‍💻 A passionate and motivated software engineer</h3>
 
 - i did my education at hyperiondev software engineering bootcamp for 6 months where i built a strong foundation in **Python, SQL/SQLite and git**
